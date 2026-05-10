@@ -2,7 +2,7 @@
 
 # 👋 Hola soy Angello
 
-### 🎮 Gamer • 🎤 Cantante • 💻 Futuro Programador
+### 🎮 Gamer • 🎤 Cantante • 🖥️ Técnico Informático
 
 <img src="https://komarev.com/ghpvc/?username=angelloexplora&label=VISITAS&style=for-the-badge&color=blueviolet" />
 
@@ -19,7 +19,7 @@ Me encanta aprender programación, crear proyectos y explorar nuevas ideas.
 
 Actualmente estoy aprendiendo:
 
-* 💻 Desarrollo web
+* 💻 Formatear una pc
 * 🎤 Cantante
 * 🚀 GitHub y programación
 
@@ -63,8 +63,8 @@ Futuro videojuego estilo aventura y exploración.
 
 # 🌟 Objetivos
 
-✅ Aprender programación profesional
-✅ Crear videojuegos
+✅ Aprender formatear una pc
+✅ Dar soporte a quien lo nesecita
 ✅ Tener mi propia página web
 ✅ Crear proyectos increíbles
 ✅ Mejorar cada día como desarrollador
@@ -73,7 +73,7 @@ Futuro videojuego estilo aventura y exploración.
 
 # 📌 Roadmap
 
-* [x] Aprender GitHub
+* [x] Aprender Github
 * [x] Crear README profesional
 * [ ] Crear mi página web
 * [ ] Crear mi primer robot
@@ -86,8 +86,7 @@ Futuro videojuego estilo aventura y exploración.
 
 [![YouTube](https://img.shields.io/badge/YouTube-Canal-red?style=for-the-badge\&logo=youtube)](https://www.youtube.com/@AngelloExplora)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge\&logo=github)](https://github.com/AngelloExplora)
-
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge\&l
 </div>
 
 ---
